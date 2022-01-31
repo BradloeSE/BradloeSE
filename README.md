@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BradloeSE
-- 👀 I’m interested in blockchain development and web design.
-- 🌱 I’m currently learning js and rust.
-- 📫 How to reach me -- bradloese@gmail.com.
+An ambitious SE focusing on blockchain technology.
+
+Reach me at BradloeSE@gmail.com
 
 <!---
 BradloeSE/BradloeSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
