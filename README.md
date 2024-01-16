@@ -8,7 +8,7 @@ What am I up to?
 - I am in the midst of completing a full-stack developer bootcamp in order to receive a certification via the following udemy course: https://www.udemy.com/course/the-complete-web-development-bootcamp/
 - I have some projects in the works I cannot wait to share.
 
-I am aiming to be employed full-time in the blockchain industry by the end of 2022.
+I am aiming to be employed full-time in the blockchain industry by the end of 2024.
 
 Please feel free to reach out to me at BradloeSE@gmail.com
 
